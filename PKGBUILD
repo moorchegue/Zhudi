@@ -1,7 +1,7 @@
 # Maintainer: murchik <mixturchik@gmail.com>
 pkgname=zhudi-cli
 pkgver=1.4
-pkgrel=11
+pkgrel=13
 pkgdesc="Supporting CLI fork of a Python/GTK3+ GUI to Chinese -English-French-German dictionnaries (CEDICT, CFDICT, HanDeDict, ChE-Dicc…). It also provides pinyin and zhuyin pronunciaton as well as a sentence segmentation utility."
 arch=('any')
 url="https://github.com/moorchegue/Zhudi"
